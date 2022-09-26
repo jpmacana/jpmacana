@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+##JavaScript
 
 ```bash
 const jpmacana = {
 Country: "Argentina",
-City: 'Godoy Cruz'
-BackEnd: [NodeJs, Sequelize,MongoDB,Firebase,Postgres]
+City: "Godoy Cruz",
+BackEnd: [NodeJs, Sequelize,MongoDB,Firebase,Postgres],
 FrontEnd: [HTML5,CSS3,Js, React, Redux, Boostrap, Tailwind Css]
 }
 
