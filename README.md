@@ -2,6 +2,9 @@
 
 Welcome to my Readme.md 😁
 
+![aboutme](https://user-images.githubusercontent.com/82981434/192354877-6dada281-0281-4738-ba73-df5d99365d14.jpg)
+
+
 I'm a fullstack development from Mendoza Argentina,my passions are tecnology,animals,football, music and watch movies and TV series.
 
 ### JavaScript
@@ -18,6 +21,17 @@ Tools: [VSCode,Postman,Github Desktop,PGAdmin, Spotify]
 
 ### Find me around the web💻
 
+```bash
+
+### Linkedin
+[Linkedin](https://www.linkedin.com/in/jpsenatra/) 
+
+### Portfolio
+
+[Portfolio](https://react-portfolio-jpmacana.vercel.app/) 
+
+
+```
 
 
 <!--
