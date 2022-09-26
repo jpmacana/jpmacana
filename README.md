@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###JavaScript
+### JavaScript
 
 ```bash
 const jpmacana = {
