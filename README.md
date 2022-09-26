@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+```bash
+const jpmacana = {
+Country: "Argentina",
+City: 'Godoy Cruz'
+BackEnd: [NodeJs, Sequelize,MongoDB,Firebase,Postgres]
+FrontEnd: [HTML5,CSS3,Js, React, Redux, Boostrap, Tailwind Css]
+}
+
+```
 <!--
 **jpmacana/jpmacana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
