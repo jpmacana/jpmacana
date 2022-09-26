@@ -21,17 +21,17 @@ Tools: [VSCode,Postman,Github Desktop,PGAdmin, Spotify]
 
 ### Find me around the web💻
 
-```bash
+
 
 ### Linkedin
-[Linkedin](https://www.linkedin.com/in/jpsenatra/) 
+
+[linkedin](https://www.linkedin.com/in/jpsenatra/) 
 
 ### Portfolio
 
-[Portfolio](https://react-portfolio-jpmacana.vercel.app/) 
+[portfolio](https://react-portfolio-jpmacana.vercel.app/) 
 
 
-```
 
 
 <!--
