@@ -5,16 +5,15 @@
 ![aboutme](https://user-images.githubusercontent.com/82981434/192354877-6dada281-0281-4738-ba73-df5d99365d14.jpg)
 
 
-### JavaScript
+### JS || REACT || NEXT || NODE || TYPESCRIPT
+### TAILWIND || CSS || SQL || MONGODB || FIRABASE
+### SPOTIFY || FIGMA || POSTMAN || VSCODE
 
 ```bash
 const jpmacana = {
 Age: 34,
 Country: "Argentina",
 City: "Godoy Cruz,Mendoza",
-BackEnd: [NodeJs, Sequelize,MongoDB,Firebase,Postgres],
-FrontEnd: [HTML5,CSS3,Js, React, Redux, Boostrap, Tailwind Css],
-Tools: [VSCode,Postman,Github Desktop,PGAdmin, Spotify]
 }
 ```
 
@@ -49,17 +48,3 @@ Tools: [VSCode,Postman,Github Desktop,PGAdmin, Spotify]
 
 
 
-<!--
-**jpmacana/jpmacana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
