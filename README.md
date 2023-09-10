@@ -10,14 +10,16 @@ Age: 34,
 Country: "Argentina",
 City: "Godoy Cruz,Mendoza",
 }
+```
+#
 
-### Tecnology Stack
+###Tecnology Stack
  
 
 JS || REACT || NEXT || NODE || TYPESCRIPT
 TAILWIND || CSS || SQL || MONGODB || FIRABASE
 SPOTIFY || FIGMA || POSTMAN || VSCODE
-```
+
 
 ## About Me
 
