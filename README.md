@@ -5,9 +5,9 @@
 ![aboutme](https://user-images.githubusercontent.com/82981434/192354877-6dada281-0281-4738-ba73-df5d99365d14.jpg)
 
 
-### JS || REACT || NEXT || NODE || TYPESCRIPT
-### TAILWIND || CSS || SQL || MONGODB || FIRABASE
-### SPOTIFY || FIGMA || POSTMAN || VSCODE
+# JS || REACT || NEXT || NODE || TYPESCRIPT
+# TAILWIND || CSS || SQL || MONGODB || FIRABASE
+# SPOTIFY || FIGMA || POSTMAN || VSCODE
 
 ```bash
 const jpmacana = {
