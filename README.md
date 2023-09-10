@@ -12,15 +12,17 @@ City: "Godoy Cruz,Mendoza",
 }
 ```
 
-#
+
 
 
 ### Tecnology Stack
 
+```bash
+
 JS || REACT || NEXT || NODE || TYPESCRIPT
 TAILWIND || CSS || SQL || MONGODB || FIRABASE
 SPOTIFY || FIGMA || POSTMAN || VSCODE
-
+```
 
 ## About Me
 
