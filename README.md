@@ -47,7 +47,7 @@ SPOTIFY || FIGMA || POSTMAN || VSCODE
 [![Linkedin Badge](https://img.shields.io/badge/-jpsenatra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpsenatra/)](https://www.linkedin.com/in/jpsenatra/) 
 [![Twitter Badge](https://img.shields.io/badge/-@jpsenatra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jpsenatra)](https://twitter.com/jpsenatra)
 [![Instagram Badge](https://img.shields.io/badge/-@jpmacana-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/jpmacana/)](https://www.instagram.com/jpmacana/)
-[![Portfolio_Badge](https://img.shields.io/badge/-portfolio-success?style=flat-square&logoColor=white&logo=github&link=https://portfolio-nextjs-macana-2023.vercel.app/)](https://portfolio-nextjs-macana-2023.vercel.app/)
+[![Portfolio_Badge](https://img.shields.io/badge/-portfolio-success?style=flat-square&logoColor=white&logo=github&link=https://portfolio-next-macana-2023-new.vercel.app/)](https://portfolio-next-macana-2023-new.vercel.app/)
 
 
 
