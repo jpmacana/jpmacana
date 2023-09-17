@@ -1,6 +1,4 @@
-# Hi, I'm Juan Pablo 👋
-
-### Welcome to my Readme.md 😁
+# Hi, I'm Juan Pablo Welcome to my Readme.md 👋
 
 ![aboutme](https://user-images.githubusercontent.com/82981434/192354877-6dada281-0281-4738-ba73-df5d99365d14.jpg)
 
