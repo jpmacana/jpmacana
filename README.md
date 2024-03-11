@@ -2,7 +2,7 @@
 
 <p>Welcome to my little place in Github...💻<p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-jpsenatra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpsenatra)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-jpsenatra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpsenatra@gmail.com)](mailto:jpsenatra@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-jpsenatra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpsenatra)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-jpsenatra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpsenatra@gmail.com)](mailto:jpsenatra@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-jpsenatra-blue?style=flat-square&logo=github&logoColor=white&link=https://portfolio-macana-astro.netlify.app/)](https://portfolio-macana-astro.netlify.app)
 
 ## :computer: My Skills
 
