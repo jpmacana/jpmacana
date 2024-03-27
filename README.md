@@ -19,24 +19,15 @@
 
 ## Programming Languages
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30"/>
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=3178C6" alt="React logo" title="React" height="30"  />
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30"  />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30"  />
-<img src="https://img.shields.io/badge/Next js-282C34?logo=next.js&logoColor=3DDC84" alt="Next JS logo" title="Next JS" height="30"  />
-<img src="https://img.shields.io/badge/Astro-282C34?logo=astro&logoColor=F57D1F" alt="Astro" title="Astro" height="30"  />
-<img src="https://img.shields.io/badge/NodeJs-282C34?logo=node.js&logoColor=339933" alt="Node Js logo" title="Node Js" height="30"  />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="30"  />
-<img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="30"  />
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C" alt="Bootstrap logo" title="Bootstrap" height="30"  />
-<img src="https://img.shields.io/badge/Material UI-282C34?logo=MUI&logoColor=007FFF" alt="Material UI logo" title="Material UI" height="30"  />
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=00F200" alt="Express logo" title="Express" height="30" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" />
-<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="30" />
-<img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3FCF8E" alt="Supabase logo" title="Supabase" height="30" />
-<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="30" />
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30"/><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=3178C6" alt="React logo" title="React" height="30"  />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30"  /><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30"  />
+<img src="https://img.shields.io/badge/Next js-282C34?logo=next.js&logoColor=3DDC84" alt="Next JS logo" title="Next JS" height="30"  /><img src="https://img.shields.io/badge/Astro-282C34?logo=astro&logoColor=F57D1F" alt="Astro" title="Astro" height="30"  />
+<img src="https://img.shields.io/badge/NodeJs-282C34?logo=node.js&logoColor=339933" alt="Node Js logo" title="Node Js" height="30"  /><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="30"  />
+<img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="30"  /><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C" alt="Bootstrap logo" title="Bootstrap" height="30"  />
+<img src="https://img.shields.io/badge/Material UI-282C34?logo=MUI&logoColor=007FFF" alt="Material UI logo" title="Material UI" height="30"  /><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=00F200" alt="Express logo" title="Express" height="30" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30" /><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="30" />
+<img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3FCF8E" alt="Supabase logo" title="Supabase" height="30" /><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="30" />
 <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=52B0E7" alt="Sequelize logo" title="Sequelize" height="30" />
-
 ## Technologies I Use
 
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" />
